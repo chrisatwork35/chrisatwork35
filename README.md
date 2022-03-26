@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris Elliott
-- 👀 I’m interested in Full Stack Dev, AR applications for helping people grow food producing plant. 
-- 🌱 I’m currently learning Python and Tensorflow
-- 💞️ I’m looking to collaborate on AR / VR / AI / Full Stack
+- 👀 I’m interested in using cutting edge technology to help in spaces like: Financial independance, growing your own food, mental health
+- 🌱 I’m currently learning Python, Tensorflow and AR
+- 💞️ I’m looking to collaborate on AR / AI / Full Stack
 - 📫 How to reach me: chriselliott.dev@gmail.com
